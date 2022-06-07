@@ -1,0 +1,1 @@
+This repo contains examples of how to simulate/backtest various strategies in the Forex market.  The data files used in most of the examples are not included, but historical market data can be pulled from various sites such as Duka Bank or via broker APIs like Oanda.
